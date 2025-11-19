@@ -1,7 +1,5 @@
 package Basic;
-
 import java.util.Scanner;
-
 public class decimal_to_binary {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -18,9 +16,7 @@ public class decimal_to_binary {
             place = place * 10; 
             num = num / 2; 
         }
-
         System.out.println("Binary equivalent : " + binary);
-
         sc.close();
     }
 }

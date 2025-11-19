@@ -1,1 +1,2 @@
-This program is to learn about creating a new fileThe next step is to append more information to the file
+This program is to learn about creating a new file
+The next step is to append more information to the file
