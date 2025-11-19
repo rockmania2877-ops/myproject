@@ -1,3 +1,4 @@
+package classes;
 import java.util.Scanner;
 class ATM{
     int choice;

@@ -1,4 +1,4 @@
-
+package Basic;
 import java.util.Scanner;
 public class AtoB {
     public static void main(String[]args){

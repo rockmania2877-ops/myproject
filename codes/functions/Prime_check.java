@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class Prime_check {
     static boolean isPrime(int a){

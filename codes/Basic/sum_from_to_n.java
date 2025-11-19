@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class sum_from_to_n {
     public static void main(String[]args){

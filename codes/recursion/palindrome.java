@@ -1,3 +1,4 @@
+package recursion;
 import java.util.Scanner;
 public class palindrome{
     static boolean isPalindrome(String s,int a,int z){

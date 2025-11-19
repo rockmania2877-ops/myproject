@@ -1,6 +1,7 @@
+package classes;
 import java.util.Scanner;
 
-class Employee{
+class Employeeee{
     String name;
     double salary;
     double percent;
@@ -38,10 +39,10 @@ public class employeeInfo{
         int n = sc.nextInt();
         sc.nextLine();
         
-        Employee[] emp = new Employee[n];
+        Employeeee[] emp = new Employeeee[n];
 
         for(int i=0;i<n;i++){
-            emp[i] = new Employee();
+            emp[i] = new Employeeee();
             emp[i].getDetails(sc, i);
             emp[i].Process(i);
         }

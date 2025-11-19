@@ -1,3 +1,4 @@
+package strings;
 import java.util.Scanner;
 public class specialOnly {
     public static void main(String[] args) {

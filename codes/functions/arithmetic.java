@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class arithmetic{
 static int add(int a,int b){

@@ -1,3 +1,4 @@
+package strings;
 import java.util.Scanner;
 public class start_middle_end {
     public static void main(String[] args) {

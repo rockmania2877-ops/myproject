@@ -1,3 +1,4 @@
+package classes;
 import java.util.Scanner;
 
 class student{
@@ -60,10 +61,44 @@ public class studentMark {
            stu[i].getDetails(sc, i);
            stu[i].process(i);
         }
+        double r1=0,r2=0,r3=0,r4=0,r5=0,r6=0;
         for(int i=0;i<n;i++){
-            stu[i].display(i);
+            r1 = r1 + stu[i].mark1;
+            r2 = r2 + stu[i].mark2;
+            r3 = r3 + stu[i].mark3;
+            r4 = r4 + stu[i].mark4;
+            r5 = r5 + stu[i].mark5;
+            r6 = r6 + stu[i].mark6;
+        }
+        double avg1 = r1/n;
+        double avg2 = r2/n;
+        double avg3 =r3/n;
+        double avg4 =r4/n;
+        double avg5 =r5/n;
+        double avg6 =r6/n;
+
+        System.out.println("Average of Tamil mark : "+avg5);
+        System.out.println("Average of English mark : "+avg6);
+        System.out.println("Average of Maths mark : "+avg1);
+        System.out.println("Average of Physics mark : "+avg2);
+        System.out.println("Average of Chemistry mark : "+avg3);
+        System.out.println("Average of Biology mark : "+avg4);
+
+        for(int i=0;i<n-1;i++){
+            for(int j=0;j<n-i-1;j++){
+                if(stu[j].tot < stu[j+1].tot){
+                    student temp = stu[j];
+                    stu[j] = stu[j+1];
+                    stu[j+1] = temp;
+                }
+            }
+        }
+        System.out.println("----Rank list----");
+        int j = 1;
+        for(int i=0;i<n;i++){
+            System.out.println((j)+"."+stu[i].name);
+            j = j+1;
         }
         sc.close();
     }
-    
 }

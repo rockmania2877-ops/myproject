@@ -1,18 +1,9 @@
 {
   "java.project.sourcePaths": [
-    "codes/strings",
-    "codes/recursion",
-    "codes/functions",
-    "codes/classes",
-    "codes/arrays",
-    "codes/Basic",
-    ".vscode",
-    "codes/BASICS"
+    "codes"
   ],
   "java.project.outputPath": "bin",
-  "java.project.referencedLibraries": [
-    "lib/**/*.jar"
-  ],
+  "java.project.referencedLibraries": [],
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",

@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 
 public class armstrong{
@@ -35,5 +36,4 @@ public class armstrong{
         }
         sc.close();
     }
-    
 }

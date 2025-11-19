@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class prime_factor{
     public static void main(String[] args) {

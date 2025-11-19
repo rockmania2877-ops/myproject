@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class reverse {
     static String rev(String word){

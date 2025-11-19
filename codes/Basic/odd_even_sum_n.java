@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 
 public class odd_even_sum_n {

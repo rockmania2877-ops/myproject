@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class n_time {
 static String times(int a,String word){

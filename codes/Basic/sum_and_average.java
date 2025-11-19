@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class sum_and_average {
     public static void main(String[]args){

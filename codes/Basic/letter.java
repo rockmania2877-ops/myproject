@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class letter {
     public static void main(String[]arrgs){

@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class sum_of_squares {
     public static void main(String[]args){

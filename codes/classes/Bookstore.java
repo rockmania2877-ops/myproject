@@ -1,3 +1,4 @@
+package classes;
 import java.util.Scanner;
 
 class Book {
@@ -15,7 +16,7 @@ class Book {
         price = sc.nextInt();
         sc.nextLine();
     }
-    void displayBook() {
+    void displayBook() {  
         System.out.println("\nTitle  : " + title);
         System.out.println("Author : " + author);
         System.out.println("Price  : " + price);

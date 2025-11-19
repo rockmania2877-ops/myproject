@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class fraction_division {
     public static void main(String[]args){

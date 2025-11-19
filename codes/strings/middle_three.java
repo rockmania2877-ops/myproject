@@ -1,3 +1,4 @@
+package strings;
 import java.util.Scanner;
 public class middle_three {
     public static void main(String[] args) {

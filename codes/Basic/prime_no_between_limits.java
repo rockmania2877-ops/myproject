@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class prime_no_between_limits{
     public static void main(String[]args){

@@ -1,5 +1,6 @@
+package Basic;
 import java.util.Scanner;
-public class reverse_string {
+public class Reverse_string {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the word : ");

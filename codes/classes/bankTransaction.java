@@ -1,3 +1,4 @@
+package classes;
 import java.util.Scanner;
 class Bank{
     double initial,deposit,withdraw,balance;
@@ -30,9 +31,7 @@ void Display(){
     System.out.println("Initial Amount : "+initial);
     System.out.println("Updated Amount : "+balance+" cr");
 }
-};
-    
-
+}
 public class bankTransaction {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

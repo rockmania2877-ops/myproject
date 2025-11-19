@@ -1,4 +1,4 @@
-
+package Basic;
 import java.util.Scanner;
 public class change_a_b {
     public static void main(String[]args) {

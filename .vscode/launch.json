@@ -3,6 +3,216 @@
   "configurations": [
     {
       "type": "java",
+      "name": "count",
+      "request": "launch",
+      "mainClass": "File_handling.count",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "exists",
+      "request": "launch",
+      "mainClass": "File_handling.exists",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "carshowroom",
+      "request": "launch",
+      "mainClass": "Advanced_OOP.carshowroom",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "read_append",
+      "request": "launch",
+      "mainClass": "File_handling.read_append",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "new",
+      "request": "launch",
+      "mainClass": "Basic.new",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "append",
+      "request": "launch",
+      "mainClass": "File_handling.append",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "read_write",
+      "request": "launch",
+      "mainClass": "File_handling.read_write",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "delete",
+      "request": "launch",
+      "mainClass": "File_handling.delete",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "read",
+      "request": "launch",
+      "mainClass": "File_handling.read",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "intro1",
+      "request": "launch",
+      "mainClass": "File_handling.intro1",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "next",
+      "request": "launch",
+      "mainClass": "File_handling.next",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "intro",
+      "request": "launch",
+      "mainClass": "File_handling.intro",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "animalia",
+      "request": "launch",
+      "mainClass": "Advanced_OOP.animalia",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "animals",
+      "request": "launch",
+      "mainClass": "Advanced_OOP.animals",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "perfect_num",
+      "request": "launch",
+      "mainClass": "Basic.perfect_num",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "living_being",
+      "request": "launch",
+      "mainClass": "Advanced_OOP.living_being",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedTextile",
+      "request": "launch",
+      "mainClass": "Basicoop.AdvancedTextile",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedTextile",
+      "request": "launch",
+      "mainClass": "oop.AdvancedTextile",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedCarShowroom",
+      "request": "launch",
+      "mainClass": "oop.AdvancedCarShowroom",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdavancedBookStore",
+      "request": "launch",
+      "mainClass": "oop.AdavancedBookStore",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedLabour",
+      "request": "launch",
+      "mainClass": "classes.AdvancedLabour",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedStudent",
+      "request": "launch",
+      "mainClass": "classes.AdvancedStudent",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "Inventoryy",
+      "request": "launch",
+      "mainClass": "classes.Inventoryy",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "AdvancedInventory",
+      "request": "launch",
+      "mainClass": "classes.AdvancedInventory",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "Odd_even_sum",
+      "request": "launch",
+      "mainClass": "arrays.Odd_even_sum",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "matrix_multipplication",
+      "request": "launch",
+      "mainClass": "matrix_multipplication",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "ascen",
+      "request": "launch",
+      "mainClass": "ascen",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "leap_year",
+      "request": "launch",
+      "mainClass": "leap_year",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
+      "name": "countdown",
+      "request": "launch",
+      "mainClass": "countdown",
+      "projectName": "Java_e7de7736"
+    },
+    {
+      "type": "java",
       "name": "specialOnly",
       "request": "launch",
       "mainClass": "specialOnly",

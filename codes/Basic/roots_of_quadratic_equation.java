@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class roots_of_quadratic_equation{
     public static void main(String[]args){

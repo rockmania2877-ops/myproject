@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class Fibonacci{
     static void fibonacci(int n){

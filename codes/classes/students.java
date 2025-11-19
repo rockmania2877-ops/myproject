@@ -1,6 +1,7 @@
+package classes;
 import java.util.Scanner;
 
-class Student{
+class Students{
     String name;
     int rollno;
     int age;
@@ -29,10 +30,10 @@ public class students {
      System.out.print("Enter the number of Students : ");
      int n = sc.nextInt();
 
-     Student[] stu = new Student[n];
+     Students[] stu = new Students[n];
      System.out.println("====Enter the details of the Students====");
      for(int i=0;i<n;i++){
-        stu[i] = new Student();
+        stu[i] = new Students();
         stu[i].getDetails(sc, i);
      }
     for(int i=0;i<n;i++){
